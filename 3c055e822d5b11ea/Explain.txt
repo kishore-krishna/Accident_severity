@@ -1,0 +1,13 @@
+How severe can accident be?
+
+*Imported test and train to .ipynb file and checked for general analysis. 
+
+*The data was perfect and ready to build the model
+
+* Built a model on Logistic regression and had very low validation score
+
+* Hypertuned the parameters in algorithm and used solver like newton-cg, liblinear and got improved validation scores in newton-cg
+
+* Used newton-cg because the prediciton variable has multiple classifications
+
+*Submission file has the prediction variable (Severity) with the Accident ID
